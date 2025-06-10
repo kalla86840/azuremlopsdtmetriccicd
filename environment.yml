@@ -1,6 +1,0 @@
-name: azureml-env
-dependencies:
-  - python=3.8
-  - pip
-  - pip:
-      - -r ci/requirements_ci.txt
